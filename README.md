@@ -15,6 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f6c1d75-bed1-489e-b568-6d9582c8b99e/deploy-status)](https://technical-document-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-technical-document-page&left_text=repo%20views)
 
 ## ℹ️ A JavaScript Technical Reference Page
 
