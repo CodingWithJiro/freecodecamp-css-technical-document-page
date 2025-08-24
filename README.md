@@ -31,7 +31,7 @@ It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](ht
 
 The page mimics a real-world developer documentation format and features a fixed navigation sidebar linking to each major section of the document. On the right, a scrollable main content area holds the detailed JavaScript topics, formatted using semantic HTML for accessibility and clarity.
 
-The layout is fully responsive—transforming into a mobile-friendly flow for smaller screens. CSS media queries ensure the sidebar stacks properly and the content remains accessible.
+The layout is fully responsive and transforms into a mobile-friendly flow for smaller screens. CSS media queries ensure the sidebar stacks properly and the content remains accessible.
 
 ---
 
