@@ -1,4 +1,4 @@
-# 💻 Technical Documentation Page
+# Technical Documentation Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,17 +17,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-technical-document-page&left_text=repo%20views)
 
-## ℹ️ A JavaScript Technical Reference Page
+## A JavaScript Technical Reference Page
 
 ![Screenshot of the project](./screenshot.png)
 
 This project is a simple yet structured technical documentation page that covers core concepts in JavaScript. It includes sections such as variable declarations, data types, functions, and conditionals, formatted for readability and navigation.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The page mimics a real-world developer documentation format and features a fixed navigation sidebar linking to each major section of the document. On the right, a scrollable main content area holds the detailed JavaScript topics, formatted using semantic HTML for accessibility and clarity.
 
@@ -35,7 +35,7 @@ The layout is fully responsive and transforms into a mobile-friendly flow for sm
 
 ---
 
-## ✨ Features
+## Features
 
 - Fixed vertical navigation menu with internal anchor links
 - Scrollable main content section using semantic HTML5
@@ -46,7 +46,7 @@ The layout is fully responsive and transforms into a mobile-friendly flow for sm
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to build a technical documentation layout using pure HTML and CSS
 - Managing fixed-position layouts and scroll margins
@@ -56,7 +56,7 @@ The layout is fully responsive and transforms into a mobile-friendly flow for sm
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -66,23 +66,23 @@ The layout is fully responsive and transforms into a mobile-friendly flow for sm
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://technical-document-page-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://technical-document-page-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
